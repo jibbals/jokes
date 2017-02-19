@@ -1,6 +1,9 @@
 Packagin tutorial from :
 https://python-packaging.readthedocs.io/en/latest/
 
+To install:
+pip install . #(from within top directory)
+
 To use:
 >>> import jokes
 >>> print(jokes.joke())
