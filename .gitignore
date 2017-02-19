@@ -1,0 +1,9 @@
+# compiled modules
+*.pyc
+
+#setuptools distribution folder
+/dist/
+
+# python egg metadata, generated from setuptools
+/*.egg-info
+
