@@ -1,2 +1,7 @@
 Packagin tutorial from :
 https://python-packaging.readthedocs.io/en/latest/
+
+To use:
+>>> import jokes
+>>> print(jokes.joke())
+
